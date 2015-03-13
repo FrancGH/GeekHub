@@ -1,2 +1,1 @@
-# GeekHub
-firs repository
+Hello world!
